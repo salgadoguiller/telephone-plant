@@ -1,0 +1,32 @@
+C:\Users\gcrescencio\Desktop\Planta Telefonica\Comparative Skype-Tigo\Comparative Skype-Tigo\bin\Debug\Comparative Skype-Tigo.exe.config
+C:\Users\gcrescencio\Desktop\Planta Telefonica\Comparative Skype-Tigo\Comparative Skype-Tigo\bin\Debug\Comparative Skype-Tigo.exe
+C:\Users\gcrescencio\Desktop\Planta Telefonica\Comparative Skype-Tigo\Comparative Skype-Tigo\bin\Debug\Comparative Skype-Tigo.pdb
+C:\Users\gcrescencio\Desktop\Planta Telefonica\Comparative Skype-Tigo\Comparative Skype-Tigo\bin\Debug\LinqToExcel.dll
+C:\Users\gcrescencio\Desktop\Planta Telefonica\Comparative Skype-Tigo\Comparative Skype-Tigo\bin\Debug\log4net.dll
+C:\Users\gcrescencio\Desktop\Planta Telefonica\Comparative Skype-Tigo\Comparative Skype-Tigo\bin\Debug\Remotion.Data.Linq.dll
+C:\Users\gcrescencio\Desktop\Planta Telefonica\Comparative Skype-Tigo\Comparative Skype-Tigo\bin\Debug\Remotion.dll
+C:\Users\gcrescencio\Desktop\Planta Telefonica\Comparative Skype-Tigo\Comparative Skype-Tigo\bin\Debug\Remotion.Interfaces.dll
+C:\Users\gcrescencio\Desktop\Planta Telefonica\Comparative Skype-Tigo\Comparative Skype-Tigo\bin\Debug\LinqToExcel.xml
+C:\Users\gcrescencio\Desktop\Planta Telefonica\Comparative Skype-Tigo\Comparative Skype-Tigo\bin\Debug\log4net.xml
+C:\Users\gcrescencio\Desktop\Planta Telefonica\Comparative Skype-Tigo\Comparative Skype-Tigo\obj\Debug\Comparative Skype-Tigo.csprojResolveAssemblyReference.cache
+C:\Users\gcrescencio\Desktop\Planta Telefonica\Comparative Skype-Tigo\Comparative Skype-Tigo\obj\Debug\Comparative Skype-Tigo.exe
+C:\Users\gcrescencio\Desktop\Planta Telefonica\Comparative Skype-Tigo\Comparative Skype-Tigo\obj\Debug\Comparative Skype-Tigo.pdb
+C:\Users\gcrescencio\Desktop\Planta Telefonica\Comparative Skype-Tigo\Comparative Skype-Tigo\bin\Debug\ClosedXML.dll
+C:\Users\gcrescencio\Desktop\Planta Telefonica\Comparative Skype-Tigo\Comparative Skype-Tigo\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\gcrescencio\Desktop\Planta Telefonica\Comparative Skype-Tigo\Comparative Skype-Tigo\bin\Debug\ClosedXML.xml
+C:\Users\gcrescencio\Desktop\Comparative Skype-Tigo\Comparative Skype-Tigo\bin\Debug\Comparative Skype-Tigo.exe.config
+C:\Users\gcrescencio\Desktop\Comparative Skype-Tigo\Comparative Skype-Tigo\obj\Debug\Comparative Skype-Tigo.exe
+C:\Users\gcrescencio\Desktop\Comparative Skype-Tigo\Comparative Skype-Tigo\obj\Debug\Comparative Skype-Tigo.pdb
+C:\Users\gcrescencio\Desktop\Comparative Skype-Tigo\Comparative Skype-Tigo\bin\Debug\Comparative Skype-Tigo.exe
+C:\Users\gcrescencio\Desktop\Comparative Skype-Tigo\Comparative Skype-Tigo\bin\Debug\Comparative Skype-Tigo.pdb
+C:\Users\gcrescencio\Desktop\Comparative Skype-Tigo\Comparative Skype-Tigo\bin\Debug\ClosedXML.dll
+C:\Users\gcrescencio\Desktop\Comparative Skype-Tigo\Comparative Skype-Tigo\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\gcrescencio\Desktop\Comparative Skype-Tigo\Comparative Skype-Tigo\bin\Debug\LinqToExcel.dll
+C:\Users\gcrescencio\Desktop\Comparative Skype-Tigo\Comparative Skype-Tigo\bin\Debug\log4net.dll
+C:\Users\gcrescencio\Desktop\Comparative Skype-Tigo\Comparative Skype-Tigo\bin\Debug\Remotion.Data.Linq.dll
+C:\Users\gcrescencio\Desktop\Comparative Skype-Tigo\Comparative Skype-Tigo\bin\Debug\Remotion.dll
+C:\Users\gcrescencio\Desktop\Comparative Skype-Tigo\Comparative Skype-Tigo\bin\Debug\Remotion.Interfaces.dll
+C:\Users\gcrescencio\Desktop\Comparative Skype-Tigo\Comparative Skype-Tigo\bin\Debug\ClosedXML.xml
+C:\Users\gcrescencio\Desktop\Comparative Skype-Tigo\Comparative Skype-Tigo\bin\Debug\LinqToExcel.xml
+C:\Users\gcrescencio\Desktop\Comparative Skype-Tigo\Comparative Skype-Tigo\bin\Debug\log4net.xml
+C:\Users\gcrescencio\Desktop\Comparative Skype-Tigo\Comparative Skype-Tigo\obj\Debug\Comparative Skype-Tigo.csprojResolveAssemblyReference.cache
